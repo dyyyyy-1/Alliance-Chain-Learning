@@ -11,7 +11,7 @@ CS 架构即 Client-Server 架构，由服务器和客户端组成：
 我们如今使用的很多应用程序例如网盘、视频应用、网购平台等都是 CS 架构。
 它的架构如下图所示：
 
-!(https://github.com/dyyyyy-1/Alliance-Chain-Learning/blob/main/img/CS%E6%9E%B6%E6%9E%84.png?raw=true)
+![](https://github.com/dyyyyy-1/Alliance-Chain-Learning/blob/main/img/CS%E6%9E%B6%E6%9E%84.png?raw=true)
 
 CS 架构的问题在于，一旦服务器关闭（例如宕机、被恶意攻击等），
 客户端就无法使用了，服务也就失效了。
