@@ -8,7 +8,9 @@
 -   可用性（Availability）（每次请求都能获取到非错的响应——但是不保证获取的数据为最新数据）
 -   分区容错性（Partition tolerance）（以实际效果而言，分区相当于对通信的时限要求。系统如果不能在时限内达成数据一致性，就意味着发生了分区的情况，必须就当前操作在C和A之间做出选择。）
 
-CAP定理示例图
+CAP定理示例图如下：
+
+![](https://github.com/dyyyyy-1/Alliance-Chain-Learning/blob/main/img/CAP.png?raw=true)
 
 在CAP定理中，C、A、P分别为一致性、可用性、分区容错性的首字母。
 
